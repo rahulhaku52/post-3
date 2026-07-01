@@ -43,7 +43,7 @@ print(f"📝 Post index: {current_index}, preview: {text[:60]}...")
 # ---------- টেলিগ্রামে পাঠানো (শুধু টেক্সট) ----------
 reply_markup = {
     "inline_keyboard": [
-        [{"text": "🔗 Join Our List", "url": "https://t.me/addlist/57pQLQQl0Oo1MDk9"}]
+        [{"text": "🔗 Join Our List", "url": "https://t.me/addlist/AceR51Tr9VE3Njk1"}]
     ]
 }
 
